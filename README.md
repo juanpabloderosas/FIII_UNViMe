@@ -16,6 +16,19 @@ Las clases estarán en formato ``.ipynb``, del cual ``github`` tiene previsualiz
 Los TP's estarán en formato ``PDF``, así es que no tendrían problemas para abrirlos en cualquier lado.
 
 ***
+### Abrir notebooks en línea.
+Si les interesa hacer las cuentas que están en los notebooks, pueden abrirlos en línea con Google Colab.
+
+| Tema N°       | Clase         |  Notebook
+|:--------------------|:--------------------:|:--------------------
+|1| Cuerpo Negro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanpabloderosas/FIII_UNViMe/blob/main/Clases/Tema1/CuerpoNegro.ipynb) |
+|1| Efecto Fotoeléctrico | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanpabloderosas/FIII_UNViMe/blob/main/Clases/Tema1/EF.ipynb) |
+|1| Modelo de Bohr | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanpabloderosas/FIII_UNViMe/blob/main/Clases/Tema1/Bohr.ipynb) |
+
+
+
+
+***
 ### Para unirse al *classroom* que tenemos para comunicar cosas de la materia,
 
 <center><img src="cRFIII.png" style="width: 300px; height:300px" /></center>
