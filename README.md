@@ -25,6 +25,7 @@ Si les interesa hacer las cuentas que están en los notebooks, pueden abrirlos e
 |1| Efecto Fotoeléctrico | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanpabloderosas/FIII_UNViMe/blob/main/Clases/Tema1/EF.ipynb) |
 |1| Modelo de Bohr | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanpabloderosas/FIII_UNViMe/blob/main/Clases/Tema1/Bohr.ipynb) |
 |1| De Broglie | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanpabloderosas/FIII_UNViMe/blob/main/Clases/Tema1/DeBroglie.ipynb) |
+|2| MC | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanpabloderosas/FIII_UNViMe/blob/main/Clases/Tema2/MC.ipynb) |
 
 
 
